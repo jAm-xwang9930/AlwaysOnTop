@@ -1,0 +1,10 @@
+# 运行产物
+code/aot-error.log
+code/selftest.log
+
+# 本地配置（含用户的快捷键与外观选择，不入库）
+code/AlwaysOnTop.ini
+
+# Windows
+Thumbs.db
+desktop.ini
